@@ -1,0 +1,57 @@
+body {
+background: #d4f7f6;
+}
+.heading p {
+text-align: center;
+font-family: cursive;
+font-weight: 900;
+font-size: 39px;
+font-variant: small-caps;
+text-transform: capitalize;
+text-decoration: underline;
+color: #2ef720;
+line-height: 0;
+}
+footer {
+background: black;
+color: white;
+}
+section {
+font-variant: small-caps;
+text-transform: capitalize;
+line-height: 1;
+}
+.section p {
+text-align: center;
+font-family: monospace;
+font-style: italic;
+font-weight: 900;
+font-size: 25px;
+color: #cb2ec5;
+text-decoration: blink;
+}
+article {
+border: 6px solid #949599;
+height: 900px;
+margin: 20px;
+padding: 20px;
+width: 400px;
+text-align: center;
+background: white;
+float: left;
+margin: 0 0%;
+width: 40%;
+font-size: 30px;
+}
+section {
+float: left;
+margin: 0 1.5%;
+}
+aside {
+float: right;
+margin: 0 0%;
+width: 50%;
+}
+a:hover {
+color: red;
+}
